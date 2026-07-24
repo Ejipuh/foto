@@ -1,2 +1,2 @@
 # foto
-where i hold my public-facing pictures
+this where i hold my public-facing pictures
